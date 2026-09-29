@@ -36,18 +36,6 @@ I also deliver full-stack web projects with **React, Angular, Blazor and Next.js
 
 ## What I do
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mssql,azure,git,github,githubactions,docker&theme=dark" />
-    <img alt="C#, .NET, Visual Studio, SQL Server, Azure, Git, GitHub, GitHub Actions, Docker" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mssql,azure,git,github,githubactions,docker&theme=light" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,tailwind,nodejs,django,mongodb&theme=dark" />
-    <img alt="React, Angular, Next.js, TypeScript, JavaScript, Tailwind, Node.js, Django, MongoDB" src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,tailwind,nodejs,django,mongodb&theme=light" />
-  </picture>
-</p>
-
 | Area | Skills & experience |
 | :-- | :-- |
 | ⚙️ **Backend & APIs** | C#, .NET Framework, .NET 8, ASP.NET Web API, ASP.NET Core, RESTful APIs, WCF, SOAP services, JWT authentication, Role-Based Access Control, N-tier architecture, Dependency Injection, unit testing |
