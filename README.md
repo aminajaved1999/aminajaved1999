@@ -99,6 +99,8 @@ Websites built for paying clients, from design to deployment and SEO:
 | **Ultimate Educational Solutions** | Website for a UK & Pakistan study-abroad consultancy | [us-pakistan.co.uk](https://us-pakistan.co.uk) |
 | **Uni Advisers** | React site with country guides, university catalogue and CRM-connected enquiries | [uniadvisers.co.uk](https://uniadvisers.co.uk) |
 
+> 🔒 **My code is private.** Live demos, descriptions and full case studies for every project are on **[aminajaved.com](https://aminajaved.com)**.
+
 ---
 
 ## Education & certifications
