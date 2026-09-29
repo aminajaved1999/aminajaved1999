@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="34" viewBox="0 0 330 34" role="img" aria-label="Open to work: full-time, remote, contract">
+  <rect x="1" y="1" width="328" height="32" rx="16" fill="#0f2d1c" stroke="#2ea44f" stroke-width="1.5"/>
+  <circle cx="20" cy="17" r="5" fill="#3fb950"/>
+  <circle cx="20" cy="17" r="8" fill="none" stroke="#3fb950" stroke-opacity="0.4"/>
+  <text x="36" y="22" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e6fbe9">Open to work · Full-time · Remote · Contract</text>
+</svg>

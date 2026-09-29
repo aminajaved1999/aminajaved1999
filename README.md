@@ -12,15 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="https://aminajaved.com"><img src="https://img.shields.io/badge/Portfolio-aminajaved.com-6741d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/aminajaved1999"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://img.shields.io/badge/Credly-Verified%20badges-ff6b00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly badges" /></a>
-  <a href="mailto:aminajaved1999@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://aminajaved.com"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-portfolio.svg" alt="Portfolio" height="40" /></a>&nbsp;
+  <a href="https://linkedin.com/in/aminajaved1999"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-linkedin.svg" alt="LinkedIn" height="40" /></a>&nbsp;
+  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-credly.svg" alt="Credly" height="40" /></a>&nbsp;
+  <a href="mailto:aminajaved1999@gmail.com"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-email.svg" alt="Email" height="40" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20work-Full--time%20%C2%B7%20Remote%20%C2%B7%20Contract-2ea44f?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Location-Faisalabad%2C%20Pakistan%20%C2%B7%20Remote%20worldwide-0b7285?style=flat-square" alt="Location" />
+  <img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/status-open.svg" alt="Open to work: full-time, remote, contract" height="34" />
 </p>
 
 ---
