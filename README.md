@@ -105,10 +105,24 @@ Websites built for paying clients, from design to deployment and SEO:
 🎓 **BS Computer Science**, FAST NUCES Faisalabad (2018 – 2022)  
 🏅 **Dean's List of Honors**, Fall 2018
 
-<a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" height="18" align="absmiddle" /></a>&nbsp; Full-Stack Developer  
-<a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="18" align="absmiddle" /></a>&nbsp; Full-Stack JavaScript Developer  
-<a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="18" align="absmiddle" /></a>&nbsp; Full Stack Software Developer  
-<a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" height="18" align="absmiddle" /></a>&nbsp; Full-Stack Engineer
+<table>
+  <tr>
+    <td align="center" width="120"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" width="90" /></a></td>
+    <td valign="middle"><b>Full-Stack Developer</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="90" /></a></td>
+    <td valign="middle"><b>Full-Stack JavaScript Developer</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="90" /></a></td>
+    <td valign="middle"><b>Full Stack Software Developer</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" width="90" /></a></td>
+    <td valign="middle"><b>Full-Stack Engineer</b></td>
+  </tr>
+</table>
 
 🔗 [Verify all my certifications and badges on Credly](https://www.credly.com/users/aminajaved1999/badges)
 
