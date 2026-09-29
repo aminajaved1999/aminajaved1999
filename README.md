@@ -27,16 +27,7 @@
 
 ## About me
 
-I'm a **Software Engineer with 4+ years of professional experience** (since **August 2022**), building, modernizing and maintaining enterprise backend, web and Windows desktop applications.
-
-- 🏢 **Currently:** Software Engineer at **Beacon Impex (Pvt) Ltd**, Faisalabad, Pakistan
-- 💼 **Domains:** fleet management, logistics, warehouse operations, ERP, access control, accounting, reporting and IoT
-- ⚙️ **Strongest stack:** C#, .NET Framework, ASP.NET Web API, ASP.NET Core, Entity Framework, ADO.NET and SQL Server
-- 🏚️ **Legacy systems:** I work in complex existing codebases (WinForms, WCF, SOAP, Silverlight), fix hard defects, and move them toward REST and ASP.NET Core
-- 🌐 **Full-stack:** React, Angular, Blazor, Next.js, Node.js and Django
-- 🚀 **Client work:** websites built and launched for paying clients, from design to SEO
-- 🎓 **Education:** BS Computer Science, FAST NUCES Faisalabad
-- 🌍 **Languages:** English (professional working proficiency) · Arabic (elementary)
+I am a **Software Engineer with 4+ years of professional experience**, working at **Beacon Impex (Pvt) Ltd** in Faisalabad, Pakistan, since **August 2022**. I build, modernize and maintain enterprise backend, web and Windows desktop applications for fleet management, logistics, warehouse operations, ERP, access control, accounting and IoT. My strongest stack is **C#, .NET Framework, ASP.NET Web API, ASP.NET Core, Entity Framework, ADO.NET and SQL Server**. I am experienced in complex existing codebases, including legacy **WinForms, WCF, SOAP and Silverlight** systems, where I debug production issues and help move them toward REST and ASP.NET Core. I also deliver full-stack projects with **React, Angular, Blazor, Next.js, Node.js and Django**, and I have designed, built and launched websites for paying clients. I hold a **BS in Computer Science from FAST NUCES Faisalabad** and I am open to full-time, remote and contract work.
 
 ---
 
