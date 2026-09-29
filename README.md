@@ -105,18 +105,10 @@ Websites built for paying clients, from design to deployment and SEO:
 🎓 **BS Computer Science**, FAST NUCES Faisalabad (2018 – 2022)  
 🏅 **Dean's List of Honors**, Fall 2018
 
-📜 **Microsoft** Full-Stack Developer  
-📜 **IBM** Full-Stack JavaScript Developer  
-📜 **IBM** Full Stack Software Developer  
-📜 **Meta** Full-Stack Engineer
-
-<p align="center">
-  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" height="36" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="36" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" height="36" /></a>
-</p>
+<a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" height="18" align="absmiddle" /></a>&nbsp; Full-Stack Developer  
+<a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="18" align="absmiddle" /></a>&nbsp; Full-Stack JavaScript Developer  
+<a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="18" align="absmiddle" /></a>&nbsp; Full Stack Software Developer  
+<a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" height="18" align="absmiddle" /></a>&nbsp; Full-Stack Engineer
 
 🔗 [Verify all my certifications and badges on Credly](https://www.credly.com/users/aminajaved1999/badges)
 
