@@ -102,19 +102,15 @@ Websites built for paying clients, from design to deployment and SEO:
 
 ## Education & certifications
 
-<p>
-  <img src="https://img.shields.io/badge/BS%20Computer%20Science-FAST%20NUCES%20Faisalabad-1f6feb?style=for-the-badge&logo=googlescholar&logoColor=white" alt="BS Computer Science, FAST NUCES Faisalabad" />
-  <img src="https://img.shields.io/badge/2018%20%E2%80%93%202022-Dean's%20List%2C%20Fall%202018-8957e5?style=for-the-badge" alt="2018 to 2022, Dean's List" />
-</p>
+🎓 **BS Computer Science**, FAST NUCES Faisalabad (2018 – 2022)  
+🏅 **Dean's List of Honors**, Fall 2018
 
-<p>
-  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://img.shields.io/badge/Microsoft-Full--Stack%20Developer-0078d4?style=for-the-badge" alt="Microsoft Full--Stack%20Developer" /></a>
-  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://img.shields.io/badge/IBM-Full--Stack%20JavaScript%20Developer-052fad?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Full--Stack%20JavaScript%20Developer" /></a>
-  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://img.shields.io/badge/IBM-Full%20Stack%20Software%20Developer-052fad?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Full%20Stack%20Software%20Developer" /></a>
-  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://img.shields.io/badge/Meta-Full--Stack%20Engineer-0866ff?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Full--Stack%20Engineer" /></a>
-</p>
+📜 **Microsoft** Full-Stack Developer  
+📜 **IBM** Full-Stack JavaScript Developer  
+📜 **IBM** Full Stack Software Developer  
+📜 **Meta** Full-Stack Engineer
 
-<sub>Click any certification to verify it on <a href="https://www.credly.com/users/aminajaved1999/badges">Credly</a>.</sub>
+🔗 [Verify all my certifications and badges on Credly](https://www.credly.com/users/aminajaved1999/badges)
 
 ---
 
