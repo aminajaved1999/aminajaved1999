@@ -110,6 +110,14 @@ Websites built for paying clients, from design to deployment and SEO:
 📜 **IBM** Full Stack Software Developer  
 📜 **Meta** Full-Stack Engineer
 
+<p align="center">
+  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" height="36" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="36" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" height="36" /></a>
+</p>
+
 🔗 [Verify all my certifications and badges on Credly](https://www.credly.com/users/aminajaved1999/badges)
 
 ---
