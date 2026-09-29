@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://aminajaved.com"><img src="https://img.shields.io/badge/Portfolio-aminajaved.com-6741d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/aminajaved1999"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://img.shields.io/badge/Credly-Verified%20badges-ff6b00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly badges" /></a>
   <a href="mailto:aminajaved1999@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -102,7 +103,7 @@ Websites built for paying clients, from design to deployment and SEO:
 ## Education & certifications
 
 - 🎓 **BS Computer Science**, FAST NUCES Faisalabad (2018 – 2022) · Dean's List, Fall 2018
-- 📜 **Microsoft** Full-Stack Developer · **IBM** Full-Stack JavaScript Developer · **IBM** Full Stack Software Developer · **Meta** Full-Stack Engineer
+- 📜 [**Verified on Credly**](https://www.credly.com/users/aminajaved1999/badges): **Microsoft** Full-Stack Developer · **IBM** Full-Stack JavaScript Developer · **IBM** Full Stack Software Developer · **Meta** Full-Stack Engineer
 
 ---
 
@@ -115,6 +116,7 @@ I'm open to **full-time, remote and contract roles**, freelance projects, short-
 <p align="center">
   <a href="https://aminajaved.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/aminajaved1999">LinkedIn</a> ·
+  <a href="https://www.credly.com/users/aminajaved1999/badges">Credly</a> ·
   <a href="https://arc.dev/@aminajaved">Arc</a> ·
   <a href="mailto:aminajaved1999@gmail.com">aminajaved1999@gmail.com</a>
 </p>
