@@ -15,6 +15,8 @@
   <a href="https://aminajaved.com"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-portfolio.svg" alt="Portfolio" height="40" /></a>&nbsp;
   <a href="https://linkedin.com/in/aminajaved1999"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-linkedin.svg" alt="LinkedIn" height="40" /></a>&nbsp;
   <a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-credly.svg" alt="Credly" height="40" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/~01df798d061c070f10"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-upwork.svg" alt="Upwork" height="40" /></a>&nbsp;
+  <a href="https://www.fiverr.com/aminajaved1999"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-fiverr.svg" alt="Fiverr" height="40" /></a>&nbsp;
   <a href="mailto:aminajaved1999@gmail.com"><img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/btn-email.svg" alt="Email" height="40" /></a>
 </p>
 
@@ -137,6 +139,8 @@ I'm open to **full-time, remote and contract roles**, freelance projects, short-
   <a href="https://aminajaved.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/aminajaved1999">LinkedIn</a> ·
   <a href="https://www.credly.com/users/aminajaved1999/badges">Credly</a> ·
+  <a href="https://www.upwork.com/freelancers/~01df798d061c070f10">Upwork</a> ·
+  <a href="https://www.fiverr.com/aminajaved1999">Fiverr</a> ·
   <a href="https://arc.dev/@aminajaved">Arc</a> ·
   <a href="mailto:aminajaved1999@gmail.com">aminajaved1999@gmail.com</a>
 </p>
