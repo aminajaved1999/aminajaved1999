@@ -27,11 +27,16 @@
 
 ## About me
 
-I'm a Software Engineer at **Beacon Impex (Pvt) Ltd** since **August 2022**, working on enterprise backend, web and Windows desktop applications that are in daily production use across fleet management, logistics, warehousing, ERP, access control, accounting and IoT.
+I'm a **Software Engineer with 4+ years of professional experience** (since **August 2022**), building, modernizing and maintaining enterprise backend, web and Windows desktop applications.
 
-My home ground is the **.NET ecosystem**: C#, .NET Framework, ASP.NET Web API, ASP.NET Core, Entity Framework, ADO.NET and SQL Server. I'm at my best inside large existing codebases: tracing hard defects, keeping legacy **WinForms, WCF, SOAP and Silverlight** systems stable, and moving them toward REST and ASP.NET Core without breaking what already works.
-
-I also deliver full-stack web projects with **React, Angular, Blazor and Next.js**, and have built and launched websites for paying clients.
+- 🏢 **Currently:** Software Engineer at **Beacon Impex (Pvt) Ltd**, Faisalabad, Pakistan
+- 💼 **Domains:** fleet management, logistics, warehouse operations, ERP, access control, accounting, reporting and IoT
+- ⚙️ **Strongest stack:** C#, .NET Framework, ASP.NET Web API, ASP.NET Core, Entity Framework, ADO.NET and SQL Server
+- 🏚️ **Legacy systems:** I work in complex existing codebases (WinForms, WCF, SOAP, Silverlight), fix hard defects, and move them toward REST and ASP.NET Core
+- 🌐 **Full-stack:** React, Angular, Blazor, Next.js, Node.js and Django
+- 🚀 **Client work:** websites built and launched for paying clients, from design to SEO
+- 🎓 **Education:** BS Computer Science, FAST NUCES Faisalabad
+- 🌍 **Languages:** English (professional working proficiency) · Arabic (elementary)
 
 ---
 
