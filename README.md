@@ -36,6 +36,18 @@ I also deliver full-stack web projects with **React, Angular, Blazor and Next.js
 
 ## What I do
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mssql,azure,git,github,githubactions,docker&theme=dark" />
+    <img alt="C#, .NET, Visual Studio, SQL Server, Azure, Git, GitHub, GitHub Actions, Docker" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mssql,azure,git,github,githubactions,docker&theme=light" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,tailwind,nodejs,django,mongodb&theme=dark" />
+    <img alt="React, Angular, Next.js, TypeScript, JavaScript, Tailwind, Node.js, Django, MongoDB" src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,tailwind,nodejs,django,mongodb&theme=light" />
+  </picture>
+</p>
+
 | Area | Skills & experience |
 | :-- | :-- |
 | ⚙️ **Backend & APIs** | C#, .NET Framework, .NET 8, ASP.NET Web API, ASP.NET Core, RESTful APIs, WCF, SOAP services, JWT authentication, Role-Based Access Control, N-tier architecture, Dependency Injection, unit testing |
@@ -96,24 +108,6 @@ Websites built for paying clients, from design to deployment and SEO:
 | **Savory Dumplings** | Mobile-first restaurant site with WhatsApp ordering, Google Maps and local SEO | [savorydumplings.com](https://savorydumplings.com) |
 | **Ultimate Educational Solutions** | Website for a UK & Pakistan study-abroad consultancy | [us-pakistan.co.uk](https://us-pakistan.co.uk) |
 | **Uni Advisers** | React site with country guides, university catalogue and CRM-connected enquiries | [uniadvisers.co.uk](https://uniadvisers.co.uk) |
-
----
-
-## Tech stack
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mssql,azure,git,github,githubactions,docker&theme=dark" />
-    <img alt="C#, .NET, Visual Studio, SQL Server, Azure, Git, GitHub, GitHub Actions, Docker" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mssql,azure,git,github,githubactions,docker&theme=light" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,tailwind,nodejs,django,mongodb&theme=dark" />
-    <img alt="React, Angular, Next.js, TypeScript, JavaScript, Tailwind, Node.js, Django, MongoDB" src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,tailwind,nodejs,django,mongodb&theme=light" />
-  </picture>
-</p>
-
-**Also:** .NET Framework · ASP.NET Web API · ASP.NET Core · Entity Framework · ADO.NET · LINQ · WinForms · WCF · SOAP · Blazor · SSRS · RDLC · Crystal Reports · EPPlus · JWT · MQTT · Firebase · IIS · Cloudflare Pages
 
 ---
 
