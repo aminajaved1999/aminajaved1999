@@ -107,19 +107,19 @@ Websites built for paying clients, from design to deployment and SEO:
 
 <table>
   <tr>
-    <td align="center" width="120"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" width="90" /></a></td>
+    <td align="center" width="160" height="50"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" height="30" /></a></td>
     <td valign="middle"><b>Full-Stack Developer</b></td>
   </tr>
   <tr>
-    <td align="center" width="120"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="90" /></a></td>
+    <td align="center" width="160" height="50"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="30" /></a></td>
     <td valign="middle"><b>Full-Stack JavaScript Developer</b></td>
   </tr>
   <tr>
-    <td align="center" width="120"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" width="90" /></a></td>
+    <td align="center" width="160" height="50"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="30" /></a></td>
     <td valign="middle"><b>Full Stack Software Developer</b></td>
   </tr>
   <tr>
-    <td align="center" width="120"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" width="90" /></a></td>
+    <td align="center" width="160" height="50"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" height="30" /></a></td>
     <td valign="middle"><b>Full-Stack Engineer</b></td>
   </tr>
 </table>
