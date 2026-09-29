@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://aminajaved.com">
-    <img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/hero-banner.png" alt="Amina Javed — Software Engineer (.NET & Full Stack)" width="100%" />
+    <img src="https://raw.githubusercontent.com/aminajaved1999/aminajaved1999/main/assets/hero-banner-v2.png" alt="Amina Javed — Software Engineer (.NET & Full Stack)" width="100%" />
   </a>
 </p>
 
