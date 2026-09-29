@@ -119,7 +119,7 @@ Websites built for paying clients, from design to deployment and SEO:
     <td valign="middle"><b>Full Stack Software Developer</b></td>
   </tr>
   <tr>
-    <td align="center" width="140" height="44"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" height="22" /></a></td>
+    <td align="center" width="140" height="44"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" height="16" /></a></td>
     <td valign="middle"><b>Full-Stack Engineer</b></td>
   </tr>
 </table>
