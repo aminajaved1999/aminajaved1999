@@ -27,7 +27,11 @@
 
 ## About me
 
-I am a **Software Engineer with 4+ years of professional experience**, working at **Beacon Impex (Pvt) Ltd** in Faisalabad, Pakistan, since **August 2022**. I build, modernize and maintain enterprise backend, web and Windows desktop applications for fleet management, logistics, warehouse operations, ERP, access control, accounting and IoT. My strongest stack is **C#, .NET Framework, ASP.NET Web API, ASP.NET Core, Entity Framework, ADO.NET and SQL Server**. I am experienced in complex existing codebases, including legacy **WinForms, WCF, SOAP and Silverlight** systems, where I debug production issues and help move them toward REST and ASP.NET Core. I also deliver full-stack projects with **React, Angular, Blazor, Next.js, Node.js and Django**, and I have designed, built and launched websites for paying clients. I hold a **BS in Computer Science from FAST NUCES Faisalabad** and I am open to full-time, remote and contract work.
+I am a **Software Engineer with 4+ years of professional experience**, working at **Beacon Impex (Pvt) Ltd** in Faisalabad, Pakistan, since **August 2022**. I build, modernize and maintain enterprise backend, web and Windows desktop applications used every day across fleet management, logistics, warehouse operations, ERP, access control, accounting and IoT. My strongest stack is **C#, .NET Framework, ASP.NET Web API, ASP.NET Core, Entity Framework, ADO.NET and SQL Server**.
+
+I am comfortable working inside complex existing codebases, including legacy **WinForms, WCF, SOAP and Silverlight** systems, where I investigate production issues, fix long-standing defects and help move the software toward REST and ASP.NET Core without breaking the workflows people rely on.
+
+Beyond .NET, I deliver full-stack projects with **React, Angular, Blazor, Next.js, Node.js and Django**, and I have designed, built and launched websites for paying clients, from design and development to deployment and SEO. I hold a **BS in Computer Science from FAST NUCES Faisalabad**, and I am open to full-time, remote and contract work.
 
 ---
 
