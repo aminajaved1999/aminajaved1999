@@ -36,13 +36,18 @@ I also deliver full-stack web projects with **React, Angular, Blazor and Next.js
 
 ## What I do
 
-| | |
+| Area | Skills & experience |
 | :-- | :-- |
-| ⚙️ **Backend & APIs** | RESTful APIs with ASP.NET Web API and ASP.NET Core, JWT auth, role-based access, N-tier design, EF / EF Core, stored procedures |
-| 🏚️ **Legacy modernization** | .NET Framework, WCF, SOAP and Silverlight systems maintained, debugged and moved toward REST and .NET Core |
-| 🖥️ **Desktop & business tools** | WinForms apps for Excel import/export, reporting (SSRS, RDLC, Crystal Reports), labels and QuickBooks IIF files |
-| 🔌 **Integrations** | WhatsApp Business API, Meta Graph API, Firebase push, MQTT for IoT devices, SMTP, QR codes, Google Places |
-| 🌐 **Full-stack web** | React, Angular, Blazor, Next.js, Node.js and Django, deployed on IIS, Cloudflare Pages and Render with CI/CD |
+| ⚙️ **Backend & APIs** | C#, .NET Framework, .NET 8, ASP.NET Web API, ASP.NET Core, RESTful APIs, WCF, SOAP services, JWT authentication, Role-Based Access Control, N-tier architecture, Dependency Injection, unit testing |
+| 🗄️ **Data** | SQL Server, stored procedures, Entity Framework 6, EF Core (Code First & Database First / EDMX), ADO.NET, LINQ, MongoDB, MySQL, SQLite |
+| 🏚️ **Legacy modernization** | .NET Framework, Silverlight, WCF and SOAP systems maintained, debugged and moved toward REST, .NET Core and ASP.NET Core without breaking production |
+| 🖥️ **Desktop & business tools** | Windows Forms apps for Excel import/export (EPPlus), data validation, production planning, product labels and QuickBooks IIF accounting files |
+| 📊 **Reporting** | SQL Server Reporting Services (SSRS), RDLC, Crystal Reports, PDF / Word / Excel exports |
+| 🔌 **Integrations** | WhatsApp Business API, Meta Graph API, Firebase Admin SDK push notifications, MQTT (MQTTnet) for IoT devices, SMTP, QR codes, Google Places API, OpenStreetMap / Overpass API, Leaflet.js, Insightly CRM, GetResponse |
+| 🌐 **Frontend** | React, React Router, Angular (19 & 20), Blazor WebAssembly, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, responsive single-page apps, multilingual & RTL sites (next-intl) |
+| 🧩 **Other backends** | Node.js, Express.js, Python, Django, Django REST Framework |
+| 🚀 **Delivery & DevOps** | Git, GitHub, GitHub Actions, CI/CD, Docker, Visual Studio, IIS, Cloudflare Pages, Render, production support, API documentation |
+| 🔎 **SEO & web presence** | Technical and local SEO, JSON-LD structured data, sitemaps, mobile-first design, WhatsApp ordering flows |
 
 ---
 
