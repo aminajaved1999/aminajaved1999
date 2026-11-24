@@ -7,8 +7,8 @@
 <h1 align="center">Hi, I'm Amina Javed</h1>
 
 <p align="center">
-  <b>Software Engineer · .NET &amp; Full Stack · 4+ years in production systems</b><br/>
-  I build, modernize and support the business software companies run on every day.
+  <b>Software Engineer · .NET &amp; Full Stack · in production systems since 2022</b><br/>
+  I design, build and modernize the business software companies run on every day.
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@
 
 ## About me
 
-I am a **Software Engineer with 4+ years of professional experience**, working at **Beacon Impex (Pvt) Ltd** in Faisalabad, Pakistan, since **August 2022**. I build, modernize and maintain enterprise backend, web and Windows desktop applications used every day across fleet management, logistics, warehouse operations, ERP, access control, accounting and IoT. My strongest stack is **C#, .NET Framework, ASP.NET Web API, ASP.NET Core, Entity Framework, ADO.NET and SQL Server**.
+I am a **.NET & Full Stack Software Engineer** at **Beacon Impex (Pvt) Ltd** in Faisalabad, Pakistan, working professionally since **August 2022**. I specialize in secure backend systems and APIs built with **C#, ASP.NET Core, ASP.NET Web API, Entity Framework, ADO.NET and SQL Server**, for business software used every day in ticketing and field service, vehicle tracking and invoicing, transport, warehouse operations, access control, accounting and IoT.
 
-I am comfortable working inside complex existing codebases, including legacy **WinForms, WCF, SOAP and Silverlight** systems, where I investigate production issues, fix long-standing defects and help move the software toward REST and ASP.NET Core without breaking the workflows people rely on.
+Highlights of my professional work include serving as the **primary backend developer of a .NET 8 ticketing and field-service platform**, developing a **customer and partner booking API with JazzCash online payments**, integrating **tax-invoice submission to the Punjab Revenue Authority (PRA)**, and implementing **JWT authentication with refresh tokens and server-side session revocation**. I also work confidently inside legacy **WinForms, WCF, SOAP and Silverlight** systems, fixing long-standing defects and moving them toward REST and ASP.NET Core without breaking production.
 
-Beyond .NET, I deliver full-stack projects with **React, Angular, Blazor, Next.js, Node.js and Django**, and I have designed, built and launched websites for paying clients, from design and development to deployment and SEO. I hold a **BS in Computer Science from FAST NUCES Faisalabad**, and I am open to full-time, remote and contract work.
+Beyond .NET, I build full-stack and frontend projects with **React, Angular, Blazor, Node.js and Django**, including multilingual and right-to-left websites, and I design, build and launch websites for clients from design to deployment and SEO. I hold a **BS in Computer Science from FAST NUCES Faisalabad** and I am open to full-time, remote and contract work.
 
 ---
 
@@ -40,16 +40,16 @@ Beyond .NET, I deliver full-stack projects with **React, Angular, Blazor, Next.j
 
 | Area | Skills & experience |
 | :-- | :-- |
-| ⚙️ **Backend & APIs** | C#, .NET Framework, .NET 8, ASP.NET Web API, ASP.NET Core, RESTful APIs, WCF, SOAP services, JWT authentication, Role-Based Access Control, N-tier architecture, Dependency Injection, unit testing |
-| 🗄️ **Data** | SQL Server, stored procedures, Entity Framework 6, EF Core (Code First & Database First / EDMX), ADO.NET, LINQ, MongoDB, MySQL, SQLite |
-| 🏚️ **Legacy modernization** | .NET Framework, Silverlight, WCF and SOAP systems maintained, debugged and moved toward REST, .NET Core and ASP.NET Core without breaking production |
-| 🖥️ **Desktop & business tools** | Windows Forms apps for Excel import/export (EPPlus), data validation, production planning, product labels and QuickBooks IIF accounting files |
+| ⚙️ **Backend & APIs** | C#, .NET Framework, .NET 8, ASP.NET Core, ASP.NET Web API, RESTful APIs, WCF, SOAP services, JWT (refresh tokens, session revocation), role- and partner-level permissions, N-tier architecture, Dependency Injection, Swagger / OpenAPI, Serilog, MSTest |
+| 🗄️ **Data** | SQL Server, T-SQL, stored procedures, Entity Framework 6, EF Core (Code First & Database First / EDMX), ADO.NET, LINQ, MongoDB, MySQL, SQLite |
+| 🏚️ **Legacy modernization** | .NET Framework, Silverlight, WCF and SOAP systems maintained, debugged and moved toward REST and ASP.NET Core without breaking production |
+| 🖥️ **Desktop & business tools** | Windows Forms apps for production planning, Excel import and validation (EPPlus), product labels and QuickBooks IIF accounting files |
 | 📊 **Reporting** | SQL Server Reporting Services (SSRS), RDLC, Crystal Reports, PDF / Word / Excel exports |
-| 🔌 **Integrations** | WhatsApp Business API, Meta Graph API, Firebase Admin SDK push notifications, MQTT (MQTTnet) for IoT devices, SMTP, QR codes, Google Places API, OpenStreetMap / Overpass API, Leaflet.js, Insightly CRM, GetResponse |
-| 🌐 **Frontend** | React, React Router, Angular (19 & 20), Blazor WebAssembly, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, responsive single-page apps, multilingual & RTL sites (next-intl) |
+| 🔌 **Integrations** | JazzCash payments, PRA tax-invoice submission, WhatsApp Business API, Meta Graph API, Firebase push notifications, MQTT (MQTTnet) for IoT devices, SMTP / MailKit, QR codes, Google Places API, OpenStreetMap / Overpass API, Leaflet.js, Insightly CRM |
+| 🌐 **Frontend** | React, React Router, Angular, Blazor WebAssembly, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Vite, responsive single-page apps, multilingual and right-to-left sites |
 | 🧩 **Other backends** | Node.js, Express.js, Python, Django, Django REST Framework |
-| 🚀 **Delivery & DevOps** | Git, GitHub, GitHub Actions, CI/CD, Docker, Visual Studio, IIS, Cloudflare Pages, Render, production support, API documentation |
-| 🔎 **SEO & web presence** | Technical and local SEO, JSON-LD structured data, sitemaps, mobile-first design, WhatsApp ordering flows |
+| 🚀 **Delivery & DevOps** | Git, GitHub Actions, CI/CD, Docker, IIS, Cloudflare Pages, Render, production support, API documentation |
+| 🔎 **SEO & web presence** | Technical and local SEO, JSON-LD structured data, sitemaps, mobile-first design, WhatsApp ordering and enquiry flows |
 
 ---
 
@@ -57,14 +57,15 @@ Beyond .NET, I deliver full-stack projects with **React, Angular, Blazor, Next.j
 
 ### Software Engineer · Beacon Impex (Pvt) Ltd · *Aug 2022 – present*
 
-Eleven production systems so far. Highlights:
+Highlights:
 
-- **Tracket** (support & field-service ticketing): ASP.NET Core APIs with JWT + RBAC, Firebase push notifications, and secure async delivery of SSRS PDF reports.
-- **Zephyr** (IoT HVAC control platform): backend services and two-way MQTT device communication for remote monitoring, scheduling and control of smart AC units.
-- **TruckDestino** (fleet management): modernized a Silverlight/SOAP system by exposing its workflows through REST APIs for web and mobile clients.
-- **MMS** (meeting rooms & access control): reservation APIs with conflict detection, QR-code gate access, and WhatsApp + email notifications.
-- **QuickBooks IIF Generator** and **WIP Analysis Tool**: WinForms tools that turn messy Excel data into validated SQL Server records, accounting files and planning reports.
-- **Tracko IS** and **Terminal Management System**: extending and stabilizing mature .NET Framework and WinForms applications while they stay in production.
+- **Tracket** (ticketing & field service): primary backend developer of a .NET 8 N-tier ASP.NET Core API with EF Core: ticket workflows, technician assignment, JWT with refresh tokens and role-based access, Firebase push notifications and authenticated SSRS PDF reports.
+- **Terminal Management System** (bus ticketing): designed and built the customer and partner Web API on top of the desktop system: seat-level booking validation, JazzCash online payments, database-backed JWT sessions and per-partner API permissions.
+- **Tracko IS** (vehicle tracking & invoicing): core developer across its WinForms client, WCF service and Web API: SIM lifecycle management, invoicing workflows, PRA tax-invoice integration and an inventory IN/OUT API with IMEI and QR scanning.
+- **Zephyr** (IoT HVAC platform): backend and MQTT device communication for remote monitoring and control of air conditioners, with temperature and scheduling policies checked before every command.
+- **Warehouse Management System**: co-developed the backend for inbound inspection, routing, an operator job engine and outbound dispatch.
+- **WIP Analysis Tool**: primary developer of a production-planning application with a Strategy-pattern calculation engine and validated Excel imports.
+- **TruckDestino**, **MMS**, **RouteTrack**, **GPMS**, **QuickBooks IIF Generator** and **Denim Labels Utility**: fleet-platform modernization, meeting-room and QR gate access, transport routes (in progress), garment production, accounting files and label generation.
 
 <details>
 <summary>All Beacon Impex systems</summary>
@@ -73,17 +74,18 @@ Eleven production systems so far. Highlights:
 
 | System | Domain | Stack |
 | :-- | :-- | :-- |
-| Tracko IS | Vehicle tracking & invoicing | .NET Framework, Web API, ADO.NET, WinForms |
-| Terminal Management System | Terminal operations | .NET Framework, WinForms |
-| Tracket | Ticketing & field service | ASP.NET Core, EF Core, SSRS, Firebase |
-| WIP Analysis Tool | Production planning | WinForms, SQL Server, EPPlus |
-| Warehouse Management System | Inventory | .NET, EF Code First |
-| Zephyr | IoT / HVAC | ASP.NET Web API, MQTTnet, EF |
-| GPMS | Garment production & packing | WCF, EF Database First |
+| Tracket | Ticketing & field service | ASP.NET Core (.NET 8), EF Core, SQL Server, JWT, Firebase, SSRS |
+| Tracko IS | Vehicle tracking & invoicing | .NET Framework, Web API, WCF, ADO.NET, WinForms |
+| Terminal Management System | Bus ticketing | ASP.NET Web API, WinForms, Entity Framework, JWT, JazzCash |
+| Zephyr | IoT / HVAC | ASP.NET Web API, MQTTnet, Entity Framework, JWT |
+| Warehouse Management System | Warehouse operations | ASP.NET Web API, EF Code First, EPPlus |
+| WIP Analysis Tool | Production planning | WinForms, Entity Framework 6, SQL Server, EPPlus |
+| RouteTrack *(in progress)* | Transport routes & vehicles | ASP.NET Web API, EF Code First, JWT, MailKit |
+| TruckDestino | Fleet management | Silverlight, SOAP, REST APIs, SQL Server |
+| MMS | Meeting rooms & gate access | Web API, EF Database First, WhatsApp API, QR codes |
+| GPMS | Garment production & packing | WCF, EF Database First, MSTest |
 | QuickBooks IIF Generator | Accounting data | WinForms, ADO.NET, EPPlus |
-| MMS | Meeting rooms & access | Web API, EF, WhatsApp API, QR |
-| Denim Labels Utility | Product labels | WinForms, RDLC, Crystal Reports |
-| TruckDestino | Fleet management | Silverlight, SOAP, REST |
+| Denim Labels Utility | Product labels | WinForms, EPPlus, RDLC, Crystal Reports |
 
 These are proprietary employer systems, so there are no public demos.
 
@@ -91,13 +93,14 @@ These are proprietary employer systems, so there are no public demos.
 
 ### Freelance Developer · *Oct 2025 – present*
 
-Websites built for paying clients, from design to deployment and SEO:
+Client work, from design to deployment and SEO:
 
 | Client | What I built | Live |
 | :-- | :-- | :-- |
-| **Savory Dumplings** | Mobile-first restaurant site with WhatsApp ordering, Google Maps and local SEO | [savorydumplings.com](https://savorydumplings.com) |
+| **Uni Advisers** | React and Vite site with country guides, a university catalogue and enquiries sent to the client's CRM | [uniadvisers.co.uk](https://uniadvisers.co.uk) |
 | **Ultimate Educational Solutions** | Website for a UK & Pakistan study-abroad consultancy | [us-pakistan.co.uk](https://us-pakistan.co.uk) |
-| **Uni Advisers** | React site with country guides, university catalogue and CRM-connected enquiries | [uniadvisers.co.uk](https://uniadvisers.co.uk) |
+| **Savory Dumplings** | Mobile-first restaurant site with WhatsApp ordering, Google Maps and local SEO | [savorydumplings.com](https://savorydumplings.com) |
+| **Ipswich Retail** | Django e-commerce store, containerized with Docker and deployed on Render | [Live store](https://amina-devops-poc.onrender.com) |
 
 > 🔒 **My code is private.** Live demos, descriptions and full case studies for every project are on **[aminajaved.com](https://aminajaved.com)**.
 
@@ -110,24 +113,24 @@ Websites built for paying clients, from design to deployment and SEO:
 
 <table>
   <tr>
-    <td align="center" width="140" height="44"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" height="22" /></a></td>
-    <td valign="middle"><b>Full-Stack Developer</b></td>
+    <td align="center" width="140" height="44"><a href="https://coursera.org/verify/professional-cert/2CPTH4F23Y8M"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" alt="Microsoft" height="22" /></a></td>
+    <td valign="middle"><b><a href="https://coursera.org/verify/professional-cert/2CPTH4F23Y8M">Microsoft Full-Stack Developer</a></b></td>
   </tr>
   <tr>
-    <td align="center" width="140" height="44"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="22" /></a></td>
-    <td valign="middle"><b>Full-Stack JavaScript Developer</b></td>
+    <td align="center" width="140" height="44"><a href="https://coursera.org/verify/professional-cert/CES0M4XG70JX"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="22" /></a></td>
+    <td valign="middle"><b><a href="https://coursera.org/verify/professional-cert/CES0M4XG70JX">IBM Full Stack Software Developer</a></b></td>
   </tr>
   <tr>
-    <td align="center" width="140" height="44"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="22" /></a></td>
-    <td valign="middle"><b>Full Stack Software Developer</b></td>
+    <td align="center" width="140" height="44"><a href="https://coursera.org/verify/professional-cert/T2O6HAMC5Z9J"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="22" /></a></td>
+    <td valign="middle"><b><a href="https://coursera.org/verify/professional-cert/T2O6HAMC5Z9J">IBM Full-Stack JavaScript Developer</a></b></td>
   </tr>
   <tr>
-    <td align="center" width="140" height="44"><a href="https://www.credly.com/users/aminajaved1999/badges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" height="16" /></a></td>
-    <td valign="middle"><b>Full-Stack Engineer</b></td>
+    <td align="center" width="140" height="44"><a href="https://coursera.org/verify/specialization/GDS86I5P383R"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="Meta" height="16" /></a></td>
+    <td valign="middle"><b><a href="https://coursera.org/verify/specialization/GDS86I5P383R">Meta Full Stack Developer</a></b> · <a href="https://www.credly.com/badges/d1849ece-d110-47a6-b363-f4d55053de73">Credly badge</a></td>
   </tr>
 </table>
 
-🔗 [Verify all my certifications and badges on Credly](https://www.credly.com/users/aminajaved1999/badges)
+🔗 Each certificate links to its Coursera verification page. All my badges are also on [Credly](https://www.credly.com/users/aminajaved1999/badges).
 
 ---
 
@@ -135,7 +138,7 @@ Websites built for paying clients, from design to deployment and SEO:
 
 I'm open to **full-time, remote and contract roles**, freelance projects, short-term fixes and long-term maintenance, especially in:
 
-`.NET / C#` · `ASP.NET Web API & Core` · `Legacy modernization` · `WinForms business tools` · `Full-stack web`
+`.NET / C#` · `ASP.NET Core & Web API` · `Secure APIs & integrations` · `Legacy modernization` · `WinForms business tools` · `Full-stack web`
 
 <p align="center">
   <a href="https://aminajaved.com">Portfolio</a> ·
